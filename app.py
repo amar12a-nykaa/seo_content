@@ -148,4 +148,4 @@ api.add_resource(SeoContent, "/seo/data")
 
 
 if __name__ == "__main__":
-	app.run(host='0.0.0.0', debug=True, port=2023)
+	app.run(host='0.0.0.0', debug=True)
